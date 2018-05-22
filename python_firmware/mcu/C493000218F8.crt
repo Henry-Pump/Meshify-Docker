@@ -1,0 +1,97 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 8 (0x8)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=TX, L=Houston, O=Meshify, OU=MeshifyHQ, CN=Meshify CA/name=EasyRSA/emailAddress=info@meshify.com
+        Validity
+            Not Before: Apr 15 15:02:22 2015 GMT
+            Not After : Apr 12 15:02:22 2025 GMT
+        Subject: C=US, ST=TX, L=Houston, O=Meshify, OU=MeshifyHQ, CN=C493000218F8/name=EasyRSA/emailAddress=info@meshify.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:bf:43:38:44:7d:7f:b8:3a:87:0a:79:e6:70:2f:
+                    23:f5:89:8f:63:3c:e6:8f:a3:2b:4b:ad:57:fe:39:
+                    14:01:a7:16:2a:3e:f0:c1:67:5a:95:80:56:0c:c7:
+                    0f:a5:85:3e:31:e2:4f:2b:86:39:31:8c:97:0c:ed:
+                    9d:16:8b:50:87:7e:5e:b9:76:c2:e8:07:fa:ad:0b:
+                    ff:0b:06:b2:33:a5:7a:b7:df:0a:70:36:c1:41:34:
+                    e2:21:b2:db:0c:2e:97:0b:04:d3:8a:02:f5:ab:f2:
+                    28:75:68:5a:9e:4a:a8:1b:36:38:5d:85:84:16:12:
+                    bf:eb:e0:a7:e5:69:d9:f0:52:93:0b:c6:e9:d5:5c:
+                    7d:69:0e:cb:9e:88:43:48:94:96:11:f6:12:6b:40:
+                    e2:8b:f1:96:ec:91:42:7d:a1:bb:6f:05:84:ac:8d:
+                    ce:44:c5:ea:55:e5:e4:0a:d6:74:8e:36:89:71:24:
+                    bd:36:e0:c8:24:cb:8d:b9:83:c9:28:f4:20:fc:40:
+                    9b:79:c4:f8:f5:72:a7:72:fa:42:cb:c0:2c:06:ea:
+                    dd:23:86:1e:c0:0c:de:2e:16:c9:13:8c:d9:46:5e:
+                    7f:88:34:a4:0f:6e:c4:00:14:bc:ef:87:98:fc:41:
+                    a4:08:e3:3d:b1:dd:50:18:40:d3:3d:95:1b:d6:f8:
+                    12:bf
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                AA:83:76:6F:41:0D:6E:9B:9E:0F:1F:E7:D2:DB:53:25:7A:68:F0:E3
+            X509v3 Authority Key Identifier: 
+                keyid:3B:89:64:B3:03:10:F3:5C:69:8B:AD:D0:5F:A3:71:E1:C6:0D:5D:0B
+                DirName:/C=US/ST=TX/L=Houston/O=Meshify/OU=MeshifyHQ/CN=Meshify CA/name=EasyRSA/emailAddress=info@meshify.com
+                serial:EE:8B:16:51:71:F8:18:67
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:C493000218F8
+    Signature Algorithm: sha256WithRSAEncryption
+         9c:bf:99:b4:db:61:63:3d:23:20:cd:54:84:d1:5d:22:73:92:
+         de:c9:40:06:4d:cf:03:a0:f0:9d:b4:d6:41:15:14:0b:37:f8:
+         f5:92:3b:d8:a2:cf:27:e6:cc:68:e7:eb:81:56:a0:21:d8:80:
+         63:9b:42:fc:83:a3:b5:99:5a:b8:07:db:b8:53:c4:74:5c:d1:
+         1d:05:5f:8f:eb:f7:03:d2:84:36:1a:d5:eb:2e:21:ba:9c:fb:
+         c6:18:41:85:a0:8c:a0:ae:38:83:61:dd:23:7c:00:44:f8:f5:
+         60:83:fc:79:47:f9:94:07:a5:c0:54:8d:a5:27:ed:19:dd:67:
+         b7:8e:26:cd:c4:88:25:ff:1c:d6:dd:7b:bb:88:78:aa:18:2f:
+         b6:08:1d:e5:6d:a1:0e:0a:4a:8a:8f:3f:8d:44:a9:fd:59:b7:
+         21:8d:9a:f4:cd:e3:a8:a5:00:10:49:be:11:02:80:b6:2d:74:
+         ff:55:92:bf:17:04:15:b7:a9:6a:7b:2f:27:bc:a7:31:91:40:
+         e5:64:f6:01:1d:f3:56:c4:8f:91:49:c3:3f:97:dc:cc:93:30:
+         01:c3:11:a2:73:17:ac:2c:77:a2:2d:ad:18:69:c5:cc:58:e3:
+         84:fc:95:b1:39:46:87:da:1c:74:75:a3:ba:8e:96:2e:b4:09:
+         ed:fb:32:49
+-----BEGIN CERTIFICATE-----
+MIIFHzCCBAegAwIBAgIBCDANBgkqhkiG9w0BAQsFADCBmjELMAkGA1UEBhMCVVMx
+CzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRAwDgYDVQQKEwdNZXNoaWZ5
+MRIwEAYDVQQLEwlNZXNoaWZ5SFExEzARBgNVBAMTCk1lc2hpZnkgQ0ExEDAOBgNV
+BCkTB0Vhc3lSU0ExHzAdBgkqhkiG9w0BCQEWEGluZm9AbWVzaGlmeS5jb20wHhcN
+MTUwNDE1MTUwMjIyWhcNMjUwNDEyMTUwMjIyWjCBnDELMAkGA1UEBhMCVVMxCzAJ
+BgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRAwDgYDVQQKEwdNZXNoaWZ5MRIw
+EAYDVQQLEwlNZXNoaWZ5SFExFTATBgNVBAMTDEM0OTMwMDAyMThGODEQMA4GA1UE
+KRMHRWFzeVJTQTEfMB0GCSqGSIb3DQEJARYQaW5mb0BtZXNoaWZ5LmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL9DOER9f7g6hwp55nAvI/WJj2M8
+5o+jK0utV/45FAGnFio+8MFnWpWAVgzHD6WFPjHiTyuGOTGMlwztnRaLUId+Xrl2
+wugH+q0L/wsGsjOlerffCnA2wUE04iGy2wwulwsE04oC9avyKHVoWp5KqBs2OF2F
+hBYSv+vgp+Vp2fBSkwvG6dVcfWkOy56IQ0iUlhH2EmtA4ovxluyRQn2hu28FhKyN
+zkTF6lXl5ArWdI42iXEkvTbgyCTLjbmDySj0IPxAm3nE+PVyp3L6QsvALAbq3SOG
+HsAM3i4WyROM2UZef4g0pA9uxAAUvO+HmPxBpAjjPbHdUBhA0z2VG9b4Er8CAwEA
+AaOCAWowggFmMAkGA1UdEwQCMAAwLQYJYIZIAYb4QgENBCAWHkVhc3ktUlNBIEdl
+bmVyYXRlZCBDZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQUqoN2b0ENbpueDx/n0ttTJXpo
+8OMwgc8GA1UdIwSBxzCBxIAUO4lkswMQ81xpi63QX6Nx4cYNXQuhgaCkgZ0wgZox
+CzAJBgNVBAYTAlVTMQswCQYDVQQIEwJUWDEQMA4GA1UEBxMHSG91c3RvbjEQMA4G
+A1UEChMHTWVzaGlmeTESMBAGA1UECxMJTWVzaGlmeUhRMRMwEQYDVQQDEwpNZXNo
+aWZ5IENBMRAwDgYDVQQpEwdFYXN5UlNBMR8wHQYJKoZIhvcNAQkBFhBpbmZvQG1l
+c2hpZnkuY29tggkA7osWUXH4GGcwEwYDVR0lBAwwCgYIKwYBBQUHAwIwCwYDVR0P
+BAQDAgeAMBcGA1UdEQQQMA6CDEM0OTMwMDAyMThGODANBgkqhkiG9w0BAQsFAAOC
+AQEAnL+ZtNthYz0jIM1UhNFdInOS3slABk3PA6DwnbTWQRUUCzf49ZI72KLPJ+bM
+aOfrgVagIdiAY5tC/IOjtZlauAfbuFPEdFzRHQVfj+v3A9KENhrV6y4hupz7xhhB
+haCMoK44g2HdI3wARPj1YIP8eUf5lAelwFSNpSftGd1nt44mzcSIJf8c1t17u4h4
+qhgvtggd5W2hDgpKio8/jUSp/Vm3IY2a9M3jqKUAEEm+EQKAti10/1WSvxcEFbep
+ansvJ7ynMZFA5WT2AR3zVsSPkUnDP5fczJMwAcMRonMXrCx3oi2tGGnFzFjjhPyV
+sTlGh9ocdHWjuo6WLrQJ7fsySQ==
+-----END CERTIFICATE-----

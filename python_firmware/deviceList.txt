@@ -1,0 +1,5 @@
+{
+  "mainHP": "http://s3.amazonaws.com/device-drivers/multitech/OCG/mainMeshify/",
+  "m1": "http://s3.amazonaws.com/device-drivers/M1V2/M1/",
+  "vfdipp": "https://s3.amazonaws.com/pocloud-drivers/advvfdipp/"
+}
